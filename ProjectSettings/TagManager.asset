@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Player2
+  - Enemy
+  - Bullet
+  - Ground
+  - Pickup
+  - Gatilhos
+  - Tiro inimigo
+  - "\xC1rea Iluminada"
+  - Elevador
+  - Grade
+  - Anti-Chefe
+  - Patrulha
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Personagem
+  - Tiro
+  - Tiro - Inimigo
+  - Elevador
+  - Tudo (-Personagem)
+  - Inimigo
+  - "Colet\xE1veis"
+  - Apenas Personagem
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 145232093
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Gameplay
+    uniqueID: 1087635889
+    locked: 0
+  - name: Foreground
+    uniqueID: 82628601
+    locked: 0
+  - name: UI
+    uniqueID: 480387005
+    locked: 0
